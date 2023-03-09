@@ -1,4 +1,4 @@
-### Hi, I'm Marco Martins 👋
+### Hi, I'm Marco Martins 👋👨‍💻
 
 ### Connect with me:
 
