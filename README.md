@@ -15,6 +15,7 @@
   <img align="center" alt="c" src="https://img.shields.io/badge/C Linguagem de programação-4800FF?style=for-the-badge&logo=c&logoColor=9CBDF7" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=61DAFB" />
   <img align="center" alt="php" src="https://img.shields.io/badge/php-B5C9E2?style=for-the-badge&logo=php&logoColor=5C718C" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/java-EF3E36?style=for-the-badge&logo=java&logoColor=27233A" />
 </div><br/>
 
 ### Learning:
